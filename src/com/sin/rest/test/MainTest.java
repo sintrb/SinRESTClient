@@ -6,6 +6,11 @@ import org.apache.http.conn.ssl.SSLSocketFactory;
 import com.sin.rest.MediaType;
 import com.sin.rest.WebResource;
 
+/**
+ * MainTest <br/> A Test for SinRESTClient
+ * 
+ * @author RobinTang {@link https://github.com/sintrb/SinRESTClient}
+ */
 public class MainTest {
 	public static void main(String[] args) {
 		SSLSocketFactory.getSocketFactory().setHostnameVerifier(new AllowAllHostnameVerifier());

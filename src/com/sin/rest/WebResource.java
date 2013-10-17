@@ -8,7 +8,7 @@ import org.apache.http.client.methods.HttpPut;
 /**
  * WebResource <br/>
  * 
- * @author RobinTang {@link https://github.com/sintrb/SinREST4Android}
+ * @author RobinTang {@link https://github.com/sintrb/SinRESTClient}
  */
 public class WebResource {
 	public static final String VERSION = "1.0";

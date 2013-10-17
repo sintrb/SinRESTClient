@@ -19,7 +19,7 @@ import org.apache.http.util.EntityUtils;
 /**
  * ResourceAccess <br/>
  * 
- * @author RobinTang {@link https://github.com/sintrb/SinREST4Android}
+ * @author RobinTang {@link https://github.com/sintrb/SinRESTClient}
  */
 public class ResourceAccess {
 	private static DefaultHttpClient httpClient = new DefaultHttpClient();

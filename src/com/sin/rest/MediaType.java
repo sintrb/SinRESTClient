@@ -3,7 +3,7 @@ package com.sin.rest;
 /**
  * MediaType <br/> Resource Type
  * 
- * @author RobinTang {@link https://github.com/sintrb/SinREST4Android}
+ * @author RobinTang {@link https://github.com/sintrb/SinRESTClient}
  */
 public enum MediaType {
 	APPLICATION_XML("application/xml"), // APPLICATION_XML
