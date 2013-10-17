@@ -46,5 +46,13 @@ access.read(Map<String, String>);	// Submit a Data Form and read the response</c
 </pre>
 </li>
 
+<li>
+Maybe, use one line statement to get response is more quickly for.
+<pre>
+<code>// delete the resource witch id is 120
+resource.delete("120").accept(MediaType.APPLICATION_JSON).read();</code>
+</pre>
+</li>
+
 </ul>
 
